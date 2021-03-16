@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-11-08T04:33:58Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "mecanum_car_rev_F"
+        },
+        "Owner": "Tim Lubes <tlubes@quantumintegrate.com>",
+        "Size": {
+            "X": 82,
+            "Y": 40
+        }
+    }
+}
